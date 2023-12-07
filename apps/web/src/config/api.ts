@@ -1,4 +1,4 @@
-const baseUrl = `http://${window.location.hostname}`;
+const baseUrl = `https://${window.location.hostname}`;
 
 export const login_api = baseUrl + '/login';
 
